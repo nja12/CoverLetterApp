@@ -1,0 +1,11 @@
+{
+  "name": "coverletter_app",
+  "version": "1.0.0",
+  "description": "mini app that writes cover letter templates",
+  "main": "write_coverLetter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nicholas Adamson",
+  "license": "ISC"
+}
